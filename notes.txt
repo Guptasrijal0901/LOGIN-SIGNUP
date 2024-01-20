@@ -1,0 +1,4 @@
+bcrypt
+
+agar 1 se zayda function hota hai toh hm {} k anadr rakhte hai module.exports mai 
+same for import mai {} lagana hona hota hai 
