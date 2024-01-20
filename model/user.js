@@ -31,11 +31,11 @@ const user_schema = new mongoose.Schema({
         type: String,
         required: true,
         trim: true
-        }
+        },
+        },
         {
-                timestamps: true,
-              }
-}
+        timestamps: true,
+        }
 )
 
 module.exports = mongoose.model("USER-INFO" , user_schema );
