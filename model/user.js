@@ -32,6 +32,9 @@ const user_schema = new mongoose.Schema({
         required: true,
         trim: true
         }
+        {
+                timestamps: true,
+              }
 }
 )
 
