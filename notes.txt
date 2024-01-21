@@ -13,3 +13,6 @@ Account SID : AC31c6b51283270aed3df45834058a4cb9
 Auth token : 87ddf00b618d1e29dedd2cab0c84cffb
 SERVICE SID : VA4619e6f3abfcd8a694fc4211ac1c09d6
 TEST Auth token: db1ae9ecc17bc8ac57a836f860637d33
+more factors to make safe api 
+rate limiter 
+login ip adress to get location 
